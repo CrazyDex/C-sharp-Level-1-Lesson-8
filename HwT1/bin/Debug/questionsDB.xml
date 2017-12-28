@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <quest>1</quest>
+    <answer>f</answer>
+  </Question>
+  <Question>
+    <quest>5+5=10</quest>
+    <answer>t</answer>
+  </Question>
+  <Question>
+    <quest>Тема еврей</quest>
+    <answer>t</answer>
+  </Question>
+</ArrayOfQuestion>
